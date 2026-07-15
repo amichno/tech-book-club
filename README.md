@@ -2,7 +2,8 @@
 
 ## Klasyczny landingpage z podstawowymi sekcjami z zachowaniem responsywności. Napisany w technologii React
 
-<img width="814" height="621" alt="image" src="https://github.com/user-attachments/assets/b041bbae-c341-4495-b68a-5ec2faa8fe96" />
+<img width="1547" height="848" alt="image" src="https://github.com/user-attachments/assets/e8740f13-891e-4b57-bd1b-347639d3c540" />
+
 
 ## Deployed 
 
