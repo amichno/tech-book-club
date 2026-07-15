@@ -13,12 +13,12 @@ export default function Hero() {
         <div>
           <Badge />
 
-          <h1 className='mt-6 font-mono text-4xl font-bold leading-[1.15] tracking-tight sm:text-5xl'>
-            <span className='text-[#e0704a]'>Join the</span>
+          <h1 className='mt-6 bg-gradient-to-r from-[#e0704a] to-slate-900 bg-clip-text font-mono text-4xl font-bold leading-[1.15] tracking-tight text-transparent sm:text-5xl'>
+            Join the
             <br />
-            <span className='text-slate-900'>ultimate tech</span>
+            ultimate tech
             <br />
-            <span className='text-[#e0704a]'>book club</span>
+            book club
           </h1>
 
           <p className='mt-5 max-w-md text-[15px] leading-relaxed text-slate-500'>
@@ -27,7 +27,7 @@ export default function Hero() {
             and level up your skills one chapter at a time.
           </p>
 
-          <button className='mt-7 sm:w-auto w-full flex  justify-items-center gap-2 rounded-md border border-slate-900 bg-transparent px-5 py-3 font-mono text-xs font-semibold uppercase tracking-wide text-slate-900 transition-colors hover:bg-slate-900 hover:text-white'>
+          <button className='mt-7 inline-flex items-center gap-2 rounded-md border border-slate-900 bg-transparent px-5 py-3 font-mono text-xs font-semibold uppercase tracking-wide text-slate-900 transition-colors hover:bg-slate-900 hover:text-white'>
             Review membership options
             <span aria-hidden='true'>↓</span>
           </button>
